@@ -12,5 +12,6 @@ https://github.com/Chaya-Sri/github.git
   141  vim python
   142  git status
   143  git add python
-  144  git commit -m "test purpose"
-  145  git log
+  144  git push origin chaya_dev_python
+  145  git commit -m "test purpose"
+  146  git log
